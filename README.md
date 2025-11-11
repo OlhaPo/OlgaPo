@@ -1,8 +1,8 @@
 
 ### Hey there! My name is Olga, I'm a junior frontend developer 👩‍💻
 
-+ I'm currently working on some pet projects to improve my coding skills.
-+ I'm looking to collaborate on some cool websites and web applications where I can gain more experience.
++ I'm currently working on a website for my creative project [*Kocie Nest*](https://www.kocienest.pl/en). I also create landing page projects on request.
++ I'm looking to collaborate on some cool websites where I can gain more experience and improve my coding skills.
 + Aside from web development I love hiking, sewing, crocheting, knitting, dancing the 5Rhythms, learning how to play the ukulele, postcrossing and cats 😸
 + Reach me on [Linkedin](https://www.linkedin.com/in/olha-ponomarova)
 ##
