@@ -6,7 +6,9 @@
 + Aside from web development I love hiking, sewing, crocheting, knitting, dancing the 5Rhythms, learning how to play the ukulele, postcrossing and cats 😸
 + Reach me on [Linkedin](https://www.linkedin.com/in/olha-ponomarova)
 ##
-**Check my pet projects here:**
+**Check my projects here:**
+   - [kocie nest](https://www.kocienest.pl/en)
+   - [sworn translator - landing page](https://olenamarchenko.pl/pl)
    - [mariam corner](https://www.mariamcorner.com.ua/)
    - [Wspieram, bo wiem](https://wspieram-bo-wiem.pl/)
    - [Yoga with NatOM](https://jogaznatom.netlify.app/)
